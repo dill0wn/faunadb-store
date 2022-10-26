@@ -1,0 +1,16 @@
+{
+  "name": "faunadb-store",
+  "version": "0.0.1",
+  "description": "an express-session store implementation for use with faunadb",
+  "main": "index.js",
+  "author": "dill0wn <wallsdil@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express-session": "^1.17.3",
+    "faunadb": "^4.7.1",
+    "typescript": "^4.8.4"
+  },
+  "devDependencies": {
+    "@types/express-session": "^1.17.5"
+  }
+}
